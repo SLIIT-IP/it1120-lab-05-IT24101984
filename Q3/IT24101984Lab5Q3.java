@@ -55,8 +55,8 @@ enDate = input.nextInt();
       totAmount = CHARGE * dayRes * DAYS_5 / 100;
     }
   
-
-   System.out.print("\n");  //Break a line
+  //Break a line
+   System.out.print("\n");  
 
   //Display the final output
    System.out.println("Room Charge per Day is : " + "RS." + CHARGE);
